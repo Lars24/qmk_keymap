@@ -12,6 +12,7 @@ jobs:
         file:
         - corne.json
         - ergodash.json
+        - moonlander.json
 # End of json file list
 
     steps:
